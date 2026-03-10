@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "prompt_key": "alt_r_philo",
+      "script_file": "/ABSOLUTE/PATH/TO/hamster/philo.js",
+      "variable": "SYSTEM_PROMPT",
+      "trim": true
+    },
+    {
+      "prompt_key": "alt_j_fanfou",
+      "script_file": "/ABSOLUTE/PATH/TO/hamster/fanfou.js",
+      "variable": "SYSTEM_PROMPT",
+      "trim": true
+    },
+    {
+      "prompt_key": "alt_x_critique",
+      "script_file": "/ABSOLUTE/PATH/TO/hamster/critique.js",
+      "variable": "SYSTEM_PROMPT",
+      "trim": true
+    }
+  ]
+}

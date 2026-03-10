@@ -1,0 +1,22 @@
+.DS_Store
+**/.DS_Store
+
+# Local/private runtime data
+.claude/
+transcripts/
+knowledge/
+whisper.log
+*.tmp
+*.bak
+*.bak-*
+
+# Local prompts / glossary assets
+prompts/glossary.txt
+prompts/prompts.json
+
+# Local config
+config.lua
+
+# Python cache
+__pycache__/
+**/__pycache__/
