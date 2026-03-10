@@ -3,6 +3,10 @@
 ## Governance and architecture
 - `PROJECT_GOVERNANCE.md`
   - asset grading, change gates, and entropy-control rules
+- `architecture-map.md`
+  - runtime/module map and recommended reading order
+- `onboarding.md`
+  - fastest path for a new maintainer to understand the repo
 - `ASR_PROVIDER_DECISION.md`
   - ASR provider selection and architecture notes
 - `reliability_scoring.md`

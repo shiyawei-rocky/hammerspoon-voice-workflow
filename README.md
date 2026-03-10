@@ -34,6 +34,8 @@ This public repo preserves that shape as far as safely possible.
 ## Key docs
 - [`GUIDING_PRINCIPLES.md`](GUIDING_PRINCIPLES.md) — system goals and non-negotiable operating principles
 - [`docs/PROJECT_GOVERNANCE.md`](docs/PROJECT_GOVERNANCE.md) — asset grading and change gates
+- [`docs/architecture-map.md`](docs/architecture-map.md) — repo structure and runtime flow map
+- [`docs/onboarding.md`](docs/onboarding.md) — fastest reading path for a new maintainer
 - [`docs/hotkey_responsibilities.md`](docs/hotkey_responsibilities.md) — what each hotkey is allowed to do
 - [`docs/prompt_contracts.md`](docs/prompt_contracts.md) — semantic contract of main prompt families
 - [`docs/eval_score_template.md`](docs/eval_score_template.md) — lightweight regression/eval template
